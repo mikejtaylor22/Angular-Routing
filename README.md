@@ -1,2 +1,2 @@
 # routing-start
- angular routing practice
+Extensive look into Angular routing practices
